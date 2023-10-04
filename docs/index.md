@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Projeto Pizzaria&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -27,14 +27,9 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Guilherme Augusto
+* Leonardo Rodrigues
+* Pedro Calvacante 
 
 
 # Descrição do projeto
@@ -45,8 +40,7 @@
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de casos de uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![WhatsApp Image 2023-10-04 at 4 52 38 PM](https://github.com/Leo-RH/UML-Classroom-FCI/assets/59239397/4044fd4e-f60d-402c-9bc7-9a9ef02f0711)
 
 # Descrição dos casos de uso
 
