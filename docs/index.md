@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Projeto Pizza-Express&gt;*
+#Projeto Pizza-Express
 </center></font>
 
 **Conteúdo**
