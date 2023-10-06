@@ -30,7 +30,7 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+Uma pizzaria chamada pizza-Express é uma cadeia de 40 lojas. A empresa tem perdido recentemente 30% dos seus pedidos devido ao seu problema de entrega. Com o atraso da pizzaria a empresa Papa-leguas entrou no projeto para ajuda-la a reduzir o tempo de espera de seus clientes. O objetivo da empresa é receber o pedido, localizar a cozinha mais próxima e assim encaminhar o pedido pronto até a casa do cliente com o menor tempo de espera possível. Nesse projeto iremos criar uma solução para essa empresa.
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
@@ -40,7 +40,9 @@
 
 # Descrição dos casos de uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+Arquivo com a descrição de uso: 
+[TABELAOFICIAL.xlsx](https://github.com/Leo-RH/UML-Classroom-FCI/files/12835440/TABELAOFICIAL.xlsx)
+
 
 # Diagrama de sequencia
 
