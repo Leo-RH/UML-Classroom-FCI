@@ -35,44 +35,44 @@ Uma pizzaria chamada pizza-Express é uma cadeia de 40 lojas. A empresa tem perd
 # Análise de requisitos funcionais e não-funcionais
 Autenticação e Pedido:<br>
 01: O sistema deve permitir que o cliente inicie o aplicativo e se autentique (caso
-necessário).
+necessário).<br>
 02: O sistema deve permitir que o cliente faça um pedido de pizza selecionando os
-ingredientes e/ou opções prontas do menu.
-Localização:
+ingredientes e/ou opções prontas do menu.<br>
+Localização:<br>
 03: Uma vez que o pedido é feito, o sistema deve obter automaticamente a localização do
-cliente.
+cliente.<br>
 04: O sistema deve determinar qual é a fábrica de pizza mais próxima do cliente com base
-em sua localização.
-Notificações:
+em sua localização.<br>
+Notificações:<br>
 05: A fábrica de pizza mais próxima deve ser notificada automaticamente sobre o novo
-pedido.
+pedido.<br>
 06: O cozinheiro na fábrica de pizza deve receber a ordem em uma tela de pedidos em
-tempo real.
-07: O entregador deve ser notificado sobre um novo pedido pendente de entrega.
+tempo real.<br>
+07: O entregador deve ser notificado sobre um novo pedido pendente de entrega.<br>
 08: Uma vez que o cozinheiro conclua a preparação da pizza, o entregador deve ser
-notificado de que a pizza está pronta para ser coletada.
-Preparação e Entrega:
+notificado de que a pizza está pronta para ser coletada.<br>
+Preparação e Entrega:<br>
 09: O cozinheiro deve ser capaz de visualizar os detalhes do pedido e marcar a pizza como
-"Em preparação" e posteriormente como "Pronta".
+"Em preparação" e posteriormente como "Pronta".<br>
 10: O entregador deve usar a integração GPS do aplicativo para encontrar o endereço do
-cliente e entregar a pizza.
-Inventário:
+cliente e entregar a pizza.<br>
+Inventário:<br>
 11: O cozinheiro deve ser capaz de verificar os ingredientes disponíveis e atualizar o
-inventário no sistema.
+inventário no sistema.<br>
 12: Se um ingrediente estiver em falta ou em baixo estoque, o sistema deve enviar
-notificações automáticas.
+notificações automáticas.<br>
 13: O menu do aplicativo deve ser atualizado automaticamente com base na disponibilidade
-de ingredientes.
-Relatórios:
-14: O sistema deve permitir que o gerente acesse e visualize relatórios de vendas.
+de ingredientes.<br>
+Relatórios:<br>
+14: O sistema deve permitir que o gerente acesse e visualize relatórios de vendas.<br>
 15: O gerente deve ser capaz de verificar a eficiência da entrega (tempo médio, atrasos,
-etc.) através de relatórios.
-Feedback do Cliente:
+etc.) através de relatórios.<br>
+Feedback do Cliente:<br>
 16: Após a entrega, o sistema deve permitir que o cliente forneça feedback sobre a
-qualidade da pizza e a eficiência da entrega.
+qualidade da pizza e a eficiência da entrega.<br>
 Estes requisitos funcionais oferecem uma visão clara das operações e interações
 esperadas entre os atores e o sistema. Eles servirão como base para o desenvolvimento e
-implementação do sistema.
+implementação do sistema.<br>
 
 # Diagrama de casos de uso
 ![WhatsApp Image 2023-10-04 at 4 52 38 PM](https://github.com/Leo-RH/UML-Classroom-FCI/assets/59239397/4044fd4e-f60d-402c-9bc7-9a9ef02f0711)
