@@ -33,7 +33,7 @@
 Uma pizzaria chamada pizza-Express é uma cadeia de 40 lojas. A empresa tem perdido recentemente 30% dos seus pedidos devido ao seu problema de entrega. Com o atraso da pizzaria a empresa Papa-leguas entrou no projeto para ajuda-la a reduzir o tempo de espera de seus clientes. O objetivo da empresa é receber o pedido, localizar a cozinha mais próxima e assim encaminhar o pedido pronto até a casa do cliente com o menor tempo de espera possível. Nesse projeto iremos criar uma solução para essa empresa.
 
 # Análise de requisitos funcionais e não-funcionais
-Autenticação e Pedido:
+Autenticação e Pedido:<br>
 01: O sistema deve permitir que o cliente inicie o aplicativo e se autentique (caso
 necessário).
 02: O sistema deve permitir que o cliente faça um pedido de pizza selecionando os
