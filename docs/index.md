@@ -90,19 +90,22 @@ Arquivo com a descrição de uso:
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![DiagPizzaOfc](https://github.com/Leo-RH/UML-Classroom-FCI/assets/59239397/27a55aeb-f7d5-4174-95cf-eed5290d5a30)
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![DiagramaDeComponenteEngenharia](https://github.com/Leo-RH/UML-Classroom-FCI/assets/59239397/1acebd00-4249-4ed3-8ae7-3eb7533c3934)
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+Sobre o servidor que nós iremos usar será em Linux e com a linguagem JAVA teremos o firewall para protege-los e backups online e off-line para garantir mais ainda a segurança. 
+Teremos um servidor web para o aplicativo para os clientes efetuarem os pedidos e terem fácil acesso ao cardápio.
+O sistema entrará em ação quando o cliente fizer seu pedido no aplicativo e assim o sistema calcula a rota e localiza a cozinha mais próxima do cliente para que o pedido seja mandado para lá, os cozinheiros recebem o pedido pelo monitor instalado dentro da cozinha e assim que o pedido ficar pronto é deixada ao entregador, que será informado do endereço, leve a pizza ao local, fazendo assim com que o cliente espere o menor tempo possível.
+O sistema também terá um sistema de SQL de banco de dados que nele será armazenado alguns históricos dos pedidos recentes que os clientes fizerem e também a localização de todas as cozinhas para serem facilmente localizadas
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![DIagrama de Implantação](https://github.com/Leo-RH/UML-Classroom-FCI/assets/59239397/67e0c5a8-a4d3-4c6a-830c-d68bde3eac59)
 
 # Referências
 
